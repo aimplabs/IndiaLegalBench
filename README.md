@@ -53,8 +53,7 @@ CC BY 4.0 license applies to the benchmark as compiled — the generated
 questions, options, and section-level groundings — not to the statutory
 text itself.
 
-If you use this benchmark or code, please cite the paper (see
-[`CITATION.cff`](./CITATION.cff) or the BibTeX below).
+If you use this benchmark or code, please cite the paper (see the BibTeX below).
 
 ## Citation
 
